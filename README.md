@@ -5,7 +5,7 @@ Course contains:
 - CRUD operations
 - HTTP
 - DB models
-- DALL
+- DAL
 - Routing & controllers & services
 
 Used tools:
