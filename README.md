@@ -4,6 +4,9 @@ Course contains:
 - RESTFull API
 - CRUD operations
 - HTTP
+- DB models
+- DALL
+- Routing & controllers & services
 
 Used tools:
 - Node.js
